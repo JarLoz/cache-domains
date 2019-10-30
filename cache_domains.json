@@ -115,5 +115,10 @@
 			"description": "kultapytty",
 			"domain_files": ["kultapytty.txt"]
 		}
+		{
+			"name": "kakkapytty",
+			"description": "kakkapytty",
+			"domain_files": ["kakkapytty.txt"]
+		}
 	]
 }
