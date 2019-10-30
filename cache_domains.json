@@ -114,7 +114,7 @@
 			"name": "kultapytty",
 			"description": "kultapytty",
 			"domain_files": ["kultapytty.txt"]
-		}
+		},
 		{
 			"name": "kakkapytty",
 			"description": "kakkapytty",
